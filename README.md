@@ -122,7 +122,9 @@ Predicted emotion: 0/1
 ### 📄 License
 
 MIT License
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/Soham-Banerjee-web/Random_Forest)
+![Issues](https://img.shields.io/github/issues/Soham-Banerjee-web/Random_Forest)
 ---
 
 Let me know if you’d like it in `.md` format, or want me to tailor it to a specific dataset or project variation (e.g., from text or audio).
