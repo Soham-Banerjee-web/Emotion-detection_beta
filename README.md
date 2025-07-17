@@ -15,7 +15,7 @@ Detect human emotion based on numerical input features using a Random Forest cla
 emotion-detection/
 │
 ├── emotion_detection_iris.csv       # Dataset
-├── emotion_detection.py                   # Training script
+├── emotion_detection.py             # Training script
 ├── input.py                         # Emotion prediction script
 ├── emotion_detection_model.pkl      # Trained model file (output)
 └── README.md                        # Project documentation
