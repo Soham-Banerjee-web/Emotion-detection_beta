@@ -48,7 +48,7 @@ Example columns:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Soham-Banerjee-web/emotion_detection.git
+git clone https://github.com/Soham-Banerjee-web/Emotion-detection_beta.git
 cd emotion-detection
 ```
 
